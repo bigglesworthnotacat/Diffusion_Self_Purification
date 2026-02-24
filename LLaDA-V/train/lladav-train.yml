@@ -1,0 +1,6 @@
+name: lladav-train
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: /path/to/conda/envs/lladav-train
