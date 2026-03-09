@@ -1,6 +1,6 @@
 # Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models
 
-**[Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models](#)**
+**[Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models](https://arxiv.org/abs/2602.22246)**
 
 **Guangnian Wan, Qi Li, Gongfan Fang, Xinyin Ma, Xinchao Wang**
 
